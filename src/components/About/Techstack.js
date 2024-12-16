@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCamera, CgCPlusPlus, CgImport, CgInstagram } from "react-icons/cg";
+// import { CgCamera, CgCPlusPlus, CgImport, CgInstagram } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
@@ -18,14 +18,14 @@ import {
   DiChrome,
 } from "react-icons/di";
 import { FaLinux } from "react-icons/fa";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+// import {
+//   SiRedis,
+//   SiFirebase,
+//   SiNextdotjs,
+//   SiSolidity,
+//   SiPostgresql,
+// } from "react-icons/si";
+// import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
@@ -68,6 +68,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <FaLinux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJava/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiCisco />
