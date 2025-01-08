@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a>
+  <a href="https://https://my-portfolio-ten-theta-55.vercel.app/" target="_blank">yourwebsite.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -59,7 +59,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [My GitHub](https://github.com/JimmyMusyoki). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [My GitHub](https://https://github.com/JimmyMusyoki/My-portfolio). Thanks!
 
 ## Built With
 
@@ -103,11 +103,11 @@ You will find all the components used, and you can edit your information accordi
 
 ### Connect with me  
 
-- **GitHub:** [yourusername](https://github.com/JimmyMusyoki)  
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/jummymusyoki)  
-- **Twitter:** [@yourhandle](https://twitter.com/is.jimmie)  
-- **instagram** [@yourhandle](https://instagram.com/is.jimmie)  
-- **Email:** [your-email@example.com](mailto:your-jimmy.mulundi@gmail.com)  
+- **GitHub:** [JimmyMusyoki](https://github.com/JimmyMusyoki)  
+- **LinkedIn:** [jimmymusyoki](https://www.linkedin.com/in/jummymusyoki)  
+- **Twitter:** [@is.jimmie](https://twitter.com/is.jimmie)  
+- **instagram** [@is.jimmie](https://instagram.com/is.jimmie)  
+- **Email:** [jimmy.mulundi@gmaill.com](mailto:your-jimmy.mulundi@gmail.com)  
 
 ---
 
