@@ -107,7 +107,7 @@ You will find all the components used, and you can edit your information accordi
 - **LinkedIn:** [jimmymusyoki](https://www.linkedin.com/in/jummymusyoki)  
 - **Twitter:** [@is.jimmie](https://twitter.com/is.jimmie)  
 - **instagram** [@is.jimmie](https://instagram.com/is.jimmie)  
-- **Email:** [jimmy.mulundi@gmaill.com](mailto:your-jimmy.mulundi@gmail.com)  
+- **Email:** [jimmy.mulundi@gmaill.com](mailto:jimmy.mulundi@gmail.com)  
 
 ---
 
