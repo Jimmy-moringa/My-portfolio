@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -8,32 +8,64 @@
 
 <br/>
 
-<center>
+<div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+<div align="center">
 
-</center>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px; max-width: 600px;">
+
+  <!-- Card 1 -->
+  <div style="border: 2px solid #f44336; border-radius: 10px; padding: 20px; background-color: #ffebee; width: 100%;">
+    <h3 style="color: #f44336; margin: 0;">❤️ Made with Love</h3>
+    <p>Code is like humor. When you have to explain it, it’s bad. 😄</p>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="border: 2px solid #ffeb3b; border-radius: 10px; padding: 20px; background-color: #fffde7; width: 100%;">
+    <h3 style="color: #ffeb3b; margin: 0;">💻 Made with JavaScript</h3>
+    <p>Why did the JavaScript developer go broke? Because he didn’t know how to "null" his problems. 😂</p>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="border: 2px solid #4caf50; border-radius: 10px; padding: 20px; background-color: #e8f5e9; width: 100%;">
+    <h3 style="color: #4caf50; margin: 0;">🌟 Open Source</h3>
+    <p>Remember: Open source isn't free labor; it's powered by passion. ❤️</p>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="border: 2px solid #2196f3; border-radius: 10px; padding: 20px; background-color: #e3f2fd; width: 100%;">
+    <h3 style="color: #2196f3; margin: 0;">⭐ GitHub Stars</h3>
+    <p>Fun fact: A GitHub star a day keeps the bugs away! ✨</p>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="border: 2px solid #9c27b0; border-radius: 10px; padding: 20px; background-color: #f3e5f5; width: 100%;">
+    <h3 style="color: #9c27b0; margin: 0;">🍴 GitHub Forks</h3>
+    <p>Fork responsibly! You might just create something amazing. 🍴</p>
+  </div>
+
+</div>
+
+</div>
+
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="mailto:jimmy.mulundi@gmail.com?subject=Report%20Bug">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="mailto:jimmy.mulundi@gmail.com?subject=Request%20Feature">Request Feature</a>
 </h3>
+
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [My GitHub](https://github.com/JimmyMusyoki). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://https://my-portfolio-ten-theta-55.vercel.app" target="_blank">yourwebsite.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
-This project was built using these technologies.
+This project was built using these technologies:
 
 - React.js
 - Node.js
@@ -46,7 +78,7 @@ This project was built using these technologies.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy-to-customize colors**
 
 **📱 Fully Responsive**
 
@@ -60,17 +92,23 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in development mode.  
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
 The page will reload if you make edits.
 
 ## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Open the project folder and navigate to `/src/components/`.  
+You will find all the components used, and you can edit your information accordingly.
 
-### Show your support
+### Connect with me  
 
-Give a ⭐ if you like this website!
+- **GitHub:** [yourusername](https://github.com/JimmyMusyoki)  
+- **LinkedIn:** [Your Name](https://www.linkedin.com/in/jummymusyoki)  
+- **Twitter:** [@yourhandle](https://twitter.com/is.jimmie)  
+- **instagram** [@yourhandle](https://instagram.com/is.jimmie)  
+- **Email:** [your-email@example.com](mailto:your-jimmy.mulundi@gmail.com)  
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+---
+
+Feel free to reach out to me for collaborations or feedback!
