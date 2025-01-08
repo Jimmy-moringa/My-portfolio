@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Applicatons </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Iformation Technologies.
+                  Information Technologies.
                 </b>
               </i>
               <br />

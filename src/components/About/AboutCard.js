@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Jimmy Musyoki </span>
             from <span className="purple"> Nairobi, Kenya.</span>
             <br />
-            I am currently employed as a IT support Officer at Missions of Hope International.
+            I am currently working as a IT support Officer at Missions of Hope International.
             <br />
             I have completed a course  in Software Enginering at Moringa
             School.
@@ -21,13 +21,13 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Networking
+              <ImPointRight /> Tutoring
             </li>
             <li className="about-activity">
-              <ImPointRight /> Hardware repair
+              <ImPointRight /> Adventuring
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Photography
             </li>
           </ul>
 
