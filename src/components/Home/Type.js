@@ -7,9 +7,9 @@ function Type() {
       options={{
         strings: [
           "Software Developer",
-          "IT Supporter",
-          "Networking Supporter",
-          "PC repairing Engineer",
+          "Freelancer",
+          "Networking specialist",
+          "PC repair Engineer",
           "Tutour",
         ],
         autoStart: true,
